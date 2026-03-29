@@ -30,9 +30,14 @@
 A real-time Bangla conversational voicebot built for automated clinic appointment booking using **Asterisk, ASR, NLU, and TTS**.  
 It includes dialog management and speech-driven interaction for a practical healthcare use case.  
 ▶️ [Watch Demo on YouTube](https://youtube.com/shorts/1vjWpY2XW3k?feature=share)
+
 ### DineHub
 Flutter-based mobile application for digitizing university dining token management with secure Firebase Authentication and a clean, student-friendly mobile experience.  
 ▶️ [Watch Demo on YouTube](https://youtu.be/8mtSOCX110w)
+
+### ChatMood
+A Flutter and Flask-based application for analyzing exported WhatsApp chat data and generating mood insights through NLP-driven processing and frontend-backend integration.  
+▶️ [Watch Demo on YouTube](https://youtube.com/shorts/oQkKyl94OWY)
 
 ## 🛠️ Tech Stack
 
