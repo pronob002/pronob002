@@ -24,6 +24,12 @@
 - ⚡ I enjoy turning **research ideas into practical software products**
 
 ---
+## 🎥 Featured Project Demos
+
+### Bangla Voicebot for Clinic Appointment Booking
+A real-time Bangla conversational voicebot built for automated clinic appointment booking using **Asterisk, ASR, NLU, and TTS**.  
+It includes dialog management and speech-driven interaction for a practical healthcare use case.  
+▶️ [Watch Demo on YouTube](https://youtube.com/shorts/1vjWpY2XW3k?feature=share)
 
 ## 🛠️ Tech Stack
 
