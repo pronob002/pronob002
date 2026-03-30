@@ -39,6 +39,10 @@ Flutter-based mobile application for digitizing university dining token manageme
 A Flutter and Flask-based application for analyzing exported WhatsApp chat data and generating mood insights through NLP-driven processing and frontend-backend integration.  
 ▶️ [Watch Demo on YouTube](https://youtube.com/shorts/oQkKyl94OWY)
 
+### Shopfinity
+ASP.NET Core MVC web application built with .NET 8, Entity Framework Core, and SQLite to demonstrate structured backend development, database integration, and complete CRUD workflows.  
+▶️ [Watch Demo on YouTube](https://youtu.be/6XIDsrhHtB4)
+
 ## 🛠️ Tech Stack
 
 ### Languages
