@@ -31,6 +31,10 @@ A real-time Bangla conversational voicebot built for automated clinic appointmen
 It includes dialog management and speech-driven interaction for a practical healthcare use case.  
 ▶️ [Watch Demo on YouTube](https://youtube.com/shorts/1vjWpY2XW3k?feature=share)
 
+### ZenStore AI
+A full-stack, AI-powered product catalog management system built with FastAPI, React, Celery, Redis, and Groq LLM. Features real-time background processing, automated marketing description generation, and batch CSV uploads without blocking the main API thread.  
+▶️ [Watch Demo on YouTube](https://youtu.be/Igkvyp_BQxQ)
+
 ### DineHub
 Flutter-based mobile application for digitizing university dining token management with secure Firebase Authentication and a clean, student-friendly mobile experience.  
 ▶️ [Watch Demo on YouTube](https://youtu.be/8mtSOCX110w)
