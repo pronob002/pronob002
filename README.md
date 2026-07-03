@@ -109,7 +109,7 @@ ASP.NET Core MVC web application built with .NET 8, Entity Framework Core, and S
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pronob002&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pronob002&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
 </p>
 
 ---
